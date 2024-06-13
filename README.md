@@ -54,4 +54,4 @@ Submit your document and GitHub repository link through the designated platform 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
 
 
-Find the assignment here [![Click Here] (https://docs.google.com/document/d/1Spjcf3h1Prr4XhmGPqROOdqthxE9oK6RfwsVTrcODUg/edit?usp=sharing)]
+Find the assignment here [![Click Here] (https://docs.google.com/document/d/1Spjcf3h1Prr4XhmGPqROOdqthxE9oK6RfwsVTrcODUg/edit?usp=sharing)
